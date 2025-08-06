@@ -20,3 +20,6 @@ Tabla de Multiplicar:
 Generar de una forma interactiva tablas de multiplicar
 El usuario ingresa un numero y la consola debe mostrar la tabla hasta que el usuario decida salir.
 ---------------------------------------------------------
+
+
+Creado por Esperanza
